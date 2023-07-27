@@ -41,6 +41,10 @@
 
 #### 01-01-05 JYD: https://github.com/OS-HUBU/01-01-05-JYD
 
+> 团队协作能力评估
+
+#### 01-02-06 **GitHubLocationView**: https://github.com/OS-HUBU/TeamCollaborationAbility
+
 > 敬业度
 
 ### 🌈 <span id="0102">01-02-可视化项目</span>
